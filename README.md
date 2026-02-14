@@ -1,25 +1,30 @@
-# Don't Touch My Presents
+# 🎁 Present Game – Don't Touch My Presents
 
-Big problem! The holidays are almost here but people keep trying to steal your presents. It's up to you to see how long
-you can defend your precious gift.
+A fast‑paced mini‑game built with **Python + Pygame** where you defend your holiday presents from sneaky hands trying to steal them.  
+Made in just 3 days as a fun challenge project!
 
-This [game was made in 3 days](https://www.youtube.com/watch?v=H09PmP5tsy8) with Python and Pygame.
+---
 
-![](https://img.itch.zone/aW1hZ2UvMTgyNzExMi8xMDcyNTIzOS5naWY=/347x500/1OA7GI.gif)
+## 🚀 Features
+- Simple but addictive gameplay
+- Arrow key controls for quick reflexes
+- Lightweight, runs on any OS with Python
+- Easy to extend with new modes or mechanics
 
-## How to Play
+---
 
-* Use the arrow keys your maneuver your hand out of the way.
+## 🎮 How to Play
+- Use **arrow keys** to move your hand and block thieves.
+- Survive as long as possible while protecting your gift.
+- Challenge yourself to beat your high score!
 
-## Installation
+---
+
+## 🛠 Installation
 
 ### Windows
-
-Open Command Prompt and run the following:
-
-```sh
+```bash
 pip install pygame
-```
 
 ### Mac
 
@@ -40,20 +45,6 @@ sudo apt-get install python3-pygame
 Arch
 
 ```sh
-sudo pacman -S python-pygame
-```
+sudo pacman -S python-pygame 
 
-Fedora
-
-```sh
-sudo dnf install python3-pygame
-```
-
-## Help development
-
-You are welcome to submit pull requests, issues, and more! Here are some suggestions:
-
-* Bug fixes
-* Optimizations
-* New game modes  
 
